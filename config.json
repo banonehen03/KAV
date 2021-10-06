@@ -10,13 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Của Quốc Anh",
+    "BOTNAME": "vietanh",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100065237376350",
-        "",
-        "",
-        ""
+        "509698340"
     ],
     "DATABASE": {
         "sqlite": {
