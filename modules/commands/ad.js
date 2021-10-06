@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ad",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Quốc Anh",
+  credits: "KAV",
   description: "Kiểm tra thông tin admin bot.",
   commandCategory: "Thông tin adminbot",
   usages: "adm",
@@ -48,18 +48,18 @@ const fs = global.nodemodule["fs-extra"];
 "https://4.bp.blogspot.com/-yAExPAr7JeA/WDaBRVuJwxI/AAAAAAALb7I/Dbvda0KD5uECF3_SBjsvkl2_mqP9_BweQCLcB/s1600/AS000834_17.gif",
   ];
   var callback = () => api.sendMessage({body:`梁ADMIN BOT梁
-  👀 Họ và tên: Cao Đăng Quốc Anh
+  👀 Họ và tên: Khuất Anh Việt
   ❎ Tuổi: 17
   👤 Giới tính: Nam
-  🙄 Sinh ngày: 13-09-2004
-  💫 Chiều cao / cân nặng: 1m71 / 61kg
+  🙄 Sinh ngày: 03-10-2005
+  💫 Chiều cao / cân nặng: 1m65 / 49kg
   💘 Mối quan hệ: Hẹn hò
-  😎 Quê quán: 90-Hà Nam
-  🤔 Nơi ở: Tp.Phủ Lý
-  ♓ Cung: Xử nữ
+  😎 Quê quán: Phúc Thọ-Hà Nội
+  🤔 Nơi ở: Hà Nội
+  ♓ Cung: Thiên Bình
   👫 Gu: Yêu tao là được. Hứ🙄🤗
   🌸 Tính cách: Là một con người với niềm đam mê thử thách bản thân và muốn vượt qua giới hạn bản thân để đạt được mục tiêu của mình <3
-  📱 Facebook: https://www.facebook.com/quocanhthuy2004/
+  📱 Facebook: https://www.facebook.com/vietdeptraicutefomaiwe
 📢 Lưu ý cho các qtv và tv trong box: 
 - Vui lòng không spam khi sử dụng để tránh die bot
 - Không sử dụng lệnh nhiều của lệnh đó
@@ -69,9 +69,9 @@ const fs = global.nodemodule["fs-extra"];
 => Yêu mọi người nhiều lắm <3 hãy đồng hành cùng với bot và mình nhé <3
 ------------
 ✔Donate:
-💳MB: 130916032004
-📲Zalo: 0869192004
+💳MB: 0984345080888
+📲Zalo: 0342804905
 
-----Quốc Anh----`,attachment: fs.createReadStream(__dirname + "/cache/5.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/5.jpg")); 
+----Anh Việt----`,attachment: fs.createReadStream(__dirname + "/cache/5.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/5.jpg")); 
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/5.jpg")).on("close",() => callback());
    };
