@@ -14,7 +14,7 @@ module.exports.run = async function({ api, event, Users }) {
 	const { threadID } = event;
 	if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
 		api.changeNickname(`[ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "Made by CatalizCS and SpermLord" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
-		return api.sendMessage(`Kết nối thành công ○~● Sử dụng .help để biết full lệnh của bot|||  .help + tên lệnh để biết chi tiết về lệnh\n-----------------------\n  Bot name : Quốc Anh\n Prefix (dấu lệnh) : ! \n ☡Nghiêm cấm tuyệt đối mọi hành vi spam,report,war bot nếu bị phát hiện sẽ ăn ban vĩnh viễn☡ \n Mọi thắc mắc xin liên hệ fb Admin : https://www.facebook.com/quocanhthuy2004/`, threadID);
+		return api.sendMessage(`Kết nối thành công ○~● Sử dụng .help để biết full lệnh của bot|||  |help + tên lệnh để biết chi tiết về lệnh\n-----------------------\n  Bot name : Anh Việt\n Prefix (dấu lệnh) : | \n ☡Nghiêm cấm tuyệt đối mọi hành vi spam,report,war bot nếu bị phát hiện sẽ ăn ban vĩnh viễn☡ \n Mọi thắc mắc xin liên hệ fb Admin : concac`, threadID);
 	}
 	else {
 		try {
