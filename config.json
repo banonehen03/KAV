@@ -1,0 +1,117 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot Của Quốc Anh",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100065237376350",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 2000000000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": false,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBY8oMH0J6w3hulBKXJrg5aiNSWLa_hNCI",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBY8oMH0J6w3hulBKXJrg5aiNSWLa_hNCI"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "covid": {
+        "APIKEY": "Meew_G9MCJXy41nuMGGb8usNYCbXHhGIOa8"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_CutfVSuT6y1F4nur3Us3LzmqB7GWr7"
+    },
+    "img": {
+        "APIKEY": "Meew_CutfVSuT6y1F4nur3Us3LzmqB7GWr7"
+    },
+    "linkword": {
+        "APIKEY": "Meew_G9MCJXy41nuMGGb8usNYCbXHhGIOa8"
+    },
+    "sim": {
+        "APIKEY": "Meew_G9MCJXy41nuMGGb8usNYCbXHhGIOa8"
+    },
+    "slap": {
+        "APIKEY": "MEWQmluZHo7YmludGFwaGFjaDFAZ21haWwuY29"
+    },
+    "sortword": {
+        "APIKEY": "Meew_G9MCJXy41nuMGGb8usNYCbXHhGIOa8"
+    },
+    "teach": {
+        "APIKEY": "Meew_CutfVSuT6y1F4nur3Us3LzmqB7GWr7"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "log": {
+        "enable": true
+    }
+}
