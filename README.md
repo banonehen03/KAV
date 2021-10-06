@@ -1,4 +1,4 @@
-# Xin chào, mình là 💖Quốc Anh😉 <h1> 
+# Xin chào, mình là 💖Anh Việt😉 <h1> 
 
 
 
@@ -7,10 +7,8 @@
  # 🤝🏻 Kết Nối Với Mạng Xã Hội Của Tôi 
 
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/quocanhthuy2004" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/vietdeptraicutefomaiwe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 <p align="center">
-&nbsp; <a href="http://zaloapp.com/qr/p/yixsyt8a9506" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/zalo.png"    width="100" /></a>
-
 
 
 >HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
